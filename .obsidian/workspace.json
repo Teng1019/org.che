@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8a7446f6e0fec11d",
+        "id": "73670d6062f0883e",
         "type": "tabs",
         "children": [
           {
-            "id": "0441a1e5fc669633",
+            "id": "8bbe6441c8411df0",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "test/image/Pasted image 20250626164938.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250626164938"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新分頁"
             }
           }
         ]
@@ -167,8 +165,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,6 +179,6 @@
       "bases:建立新的 base": false
     }
   },
-  "active": "0441a1e5fc669633",
+  "active": "f77d44071544bcff",
   "lastOpenFiles": []
 }
