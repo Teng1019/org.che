@@ -4,17 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "73670d6062f0883e",
+        "id": "9d5998721d6216d9",
         "type": "tabs",
         "children": [
           {
-            "id": "8bbe6441c8411df0",
+            "id": "c06139cea4dd95db",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新分頁"
+              "type": "bases",
+              "state": {
+                "file": "test/Untitled 1.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "Untitled 1"
             }
           }
         ]
@@ -90,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test/image/Pasted image 20250626164938.png",
+                "file": "test/Untitled 1.base",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Pasted image 20250626164938 的反向連結"
+              "title": "Untitled 1 的反向連結"
             }
           },
           {
@@ -179,6 +182,10 @@
       "bases:建立新的 base": false
     }
   },
-  "active": "f77d44071544bcff",
-  "lastOpenFiles": []
+  "active": "c06139cea4dd95db",
+  "lastOpenFiles": [
+    "test/Untitled.base",
+    "test/Untitled 1.base",
+    "test/image/Pasted image 20250626164938.png"
+  ]
 }
