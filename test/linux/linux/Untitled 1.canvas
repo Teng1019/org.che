@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"38c512ea1ba604e4","x":106,"y":45,"width":94,"height":50,"type":"text","text":"auto"},
+		{"id":"17ad338e5f62593a","x":-40,"y":-237,"width":95,"height":50,"type":"text","text":"CPU"},
+		{"id":"e8e5eabbfa2a3e7a","x":87,"y":-237,"width":131,"height":50,"type":"text","text":"GPU"},
+		{"id":"0f62b692a9b89eb1","x":260,"y":-237,"width":120,"height":50,"type":"text","text":"home1"},
+		{"id":"1babc94010e87316","x":28,"y":-420,"width":250,"height":60,"type":"text","text":""},
+		{"id":"525ddbc2fc39a64d","x":66,"y":-80,"width":173,"height":51,"type":"text","text":"jump 1"}
+	],
+	"edges":[
+		{"id":"01229cafd116b311","fromNode":"38c512ea1ba604e4","fromSide":"top","toNode":"525ddbc2fc39a64d","toSide":"bottom"},
+		{"id":"6812191cbb78906b","fromNode":"525ddbc2fc39a64d","fromSide":"top","toNode":"17ad338e5f62593a","toSide":"bottom"},
+		{"id":"7c61a46619d6bbd4","fromNode":"525ddbc2fc39a64d","fromSide":"top","toNode":"e8e5eabbfa2a3e7a","toSide":"bottom"},
+		{"id":"d4bb6c607d0acfa3","fromNode":"525ddbc2fc39a64d","fromSide":"top","toNode":"0f62b692a9b89eb1","toSide":"bottom"},
+		{"id":"3218372c7ed18b2a","fromNode":"0f62b692a9b89eb1","fromSide":"top","toNode":"1babc94010e87316","toSide":"bottom"},
+		{"id":"fbf2678f31943b97","fromNode":"e8e5eabbfa2a3e7a","fromSide":"top","toNode":"1babc94010e87316","toSide":"bottom"},
+		{"id":"b7a93712f8a0b736","fromNode":"17ad338e5f62593a","fromSide":"top","toNode":"1babc94010e87316","toSide":"bottom"},
+		{"id":"e4f83fb4a42f52a0","fromNode":"525ddbc2fc39a64d","fromSide":"left","toNode":"1babc94010e87316","toSide":"left"}
+	]
+}
