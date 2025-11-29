@@ -1,7 +1,7 @@
 # `rm -rf /* linux` 自毀指令
 
 rm -rf （刪除 ）/*（路徑）
-
+in normal condition pls dont
 ## Care and Caution with `rm -rf /*` Command
 
 The command `rm -rf /*` is known in the Linux world as a **self-destruct code** because of its potential to delete every file in your system starting from the root directory `/`. The components of this command are:
