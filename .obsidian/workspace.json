@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test/image/Pasted image 20250626164938.png",
+                "file": "test/linux/putty authorized_keys.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Pasted image 20250626164938 的大綱"
+              "title": "putty authorized_keys 的大綱"
             }
           }
         ],
@@ -199,7 +199,7 @@
       "bases:建立新的 base": false
     }
   },
-  "active": "bd8ef57b5fdcbb91",
+  "active": "8372fb52dea8b92e",
   "lastOpenFiles": [
     "test/linux/linux/Linux Force Delete Command.md",
     "test/linux/putty authorized_keys.md",

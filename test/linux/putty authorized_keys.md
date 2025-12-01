@@ -6,3 +6,4 @@
 6. paste key and save
 7. chmod 600 (r=4,w=2,x=1,3 per group,e.g. drw-------=600 ) authorized_keys
 8. setting done
+pls don't set in chen
