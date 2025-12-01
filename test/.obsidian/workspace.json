@@ -11,17 +11,14 @@
             "id": "73de3af361e81bd7",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "full_reaction.canvas",
-                "viewState": {
-                  "x": 274,
-                  "y": 420,
-                  "zoom": -2.9290111926506777
-                }
+                "file": "linux/linux/putty authorized_keys.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "full_reaction"
+              "icon": "lucide-file",
+              "title": "putty authorized_keys"
             }
           }
         ]
@@ -97,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "full_reaction.canvas",
+                "file": "linux/linux/putty authorized_keys.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "full_reaction 的反向連結"
+              "title": "putty authorized_keys 的反向連結"
             }
           },
           {
@@ -116,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "full_reaction.canvas",
+                "file": "linux/linux/putty authorized_keys.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "full_reaction 的對外連結"
+              "title": "putty authorized_keys 的對外連結"
             }
           },
           {
@@ -159,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "full_reaction.canvas",
+                "file": "linux/linux/putty authorized_keys.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "full_reaction 的大綱"
+              "title": "putty authorized_keys 的大綱"
             }
           }
         ]
@@ -188,6 +185,8 @@
   },
   "active": "73de3af361e81bd7",
   "lastOpenFiles": [
+    "Hydrocarbon/Alkene_reaction.canvas",
+    "full_reaction.canvas",
     "Pasted image 20251126085142.png"
   ]
 }
