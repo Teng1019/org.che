@@ -11,14 +11,17 @@
             "id": "73de3af361e81bd7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "linux/linux/putty authorized_keys.md",
-                "mode": "source",
-                "source": false
+                "file": "Hydrocarbon/Alkene_reaction.canvas",
+                "viewState": {
+                  "x": -438.67799039198866,
+                  "y": -253.73716612553403,
+                  "zoom": -0.7132233251972602
+                }
               },
-              "icon": "lucide-file",
-              "title": "putty authorized_keys"
+              "icon": "lucide-layout-dashboard",
+              "title": "Alkene_reaction"
             }
           }
         ]
@@ -78,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "56e3ecaf2ed82707",
@@ -94,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/linux/putty authorized_keys.md",
+                "file": "Hydrocarbon/Alkene_reaction.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +108,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "putty authorized_keys 的反向連結"
+              "title": "Alkene_reaction 的反向連結"
             }
           },
           {
@@ -113,12 +117,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/linux/putty authorized_keys.md",
+                "file": "Hydrocarbon/Alkene_reaction.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "putty authorized_keys 的對外連結"
+              "title": "Alkene_reaction 的對外連結"
             }
           },
           {
@@ -156,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/linux/putty authorized_keys.md",
+                "file": "Hydrocarbon/Alkene_reaction.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "putty authorized_keys 的大綱"
+              "title": "Alkene_reaction 的大綱"
             }
           }
         ]
@@ -185,8 +189,13 @@
   },
   "active": "73de3af361e81bd7",
   "lastOpenFiles": [
-    "Hydrocarbon/Alkene_reaction.canvas",
     "full_reaction.canvas",
-    "Pasted image 20251126085142.png"
+    "carboxylic acid.md",
+    "Haloalkane.md",
+    "Ketone.md",
+    "Aldehyde.md",
+    "image/Pasted image 20251126085142.png",
+    "Hydrocarbon/Alkene_reaction.canvas",
+    "linux/linux/putty authorized_keys.md"
   ]
 }
