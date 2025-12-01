@@ -25,14 +25,17 @@
             "id": "8372fb52dea8b92e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "test/linux/putty authorized_keys.md",
-                "mode": "source",
-                "source": false
+                "file": "test/Hydrocarbon/Alkene_reaction.canvas",
+                "viewState": {
+                  "x": -279.3667195974347,
+                  "y": 1088.4513625147194,
+                  "zoom": -0.36835689837173496
+                }
               },
-              "icon": "lucide-file",
-              "title": "putty authorized_keys"
+              "icon": "lucide-layout-dashboard",
+              "title": "Alkene_reaction"
             }
           }
         ],
@@ -93,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c7b68bee141a908a",
@@ -128,12 +132,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test/linux/putty authorized_keys.md",
+                "file": "test/Hydrocarbon/Alkene_reaction.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "putty authorized_keys 的對外連結"
+              "title": "Alkene_reaction 的對外連結"
             }
           },
           {
@@ -185,7 +189,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,8 +206,8 @@
   },
   "active": "8372fb52dea8b92e",
   "lastOpenFiles": [
-    "test/linux/linux/Linux Force Delete Command.md",
     "test/linux/putty authorized_keys.md",
+    "test/linux/linux/Linux Force Delete Command.md",
     "未命名",
     "test/linux/linux/G16 Input File.md",
     "test/linux/linux/Creating New Conda Environment.md",
