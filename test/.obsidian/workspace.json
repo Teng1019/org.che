@@ -11,17 +11,14 @@
             "id": "73de3af361e81bd7",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Hydrocarbon/Alkene_reaction.canvas",
-                "viewState": {
-                  "x": -438.67799039198866,
-                  "y": -253.73716612553403,
-                  "zoom": -0.7132233251972602
-                }
+                "file": "arrow meaning.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Alkene_reaction"
+              "icon": "lucide-file",
+              "title": "arrow meaning"
             }
           }
         ]
@@ -81,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "56e3ecaf2ed82707",
@@ -189,13 +185,13 @@
   },
   "active": "73de3af361e81bd7",
   "lastOpenFiles": [
+    "Hydrocarbon/Alkene_reaction.canvas",
     "full_reaction.canvas",
     "carboxylic acid.md",
     "Haloalkane.md",
     "Ketone.md",
     "Aldehyde.md",
     "image/Pasted image 20251126085142.png",
-    "Hydrocarbon/Alkene_reaction.canvas",
     "linux/linux/putty authorized_keys.md"
   ]
 }
