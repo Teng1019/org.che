@@ -15,9 +15,9 @@
               "state": {
                 "file": "test/full_reaction.canvas",
                 "viewState": {
-                  "x": 1453.1622109312048,
-                  "y": 1432.897305814597,
-                  "zoom": -0.019698393467689493
+                  "x": -1569.6583805235887,
+                  "y": 453.8550275983467,
+                  "zoom": -0.6444285978114852
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -188,7 +188,7 @@
       "bases:建立新的 base": false
     }
   },
-  "active": "8372fb52dea8b92e",
+  "active": "2d46ff3a79d10432",
   "lastOpenFiles": [
     "test/Hydrocarbon/Alkene_reaction.canvas",
     "README.md",
