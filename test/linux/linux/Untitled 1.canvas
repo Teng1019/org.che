@@ -1,11 +1,11 @@
 {
 	"nodes":[
-		{"id":"38c512ea1ba604e4","x":106,"y":45,"width":94,"height":50,"type":"text","text":"auto"},
-		{"id":"17ad338e5f62593a","x":-40,"y":-237,"width":95,"height":50,"type":"text","text":"CPU"},
-		{"id":"e8e5eabbfa2a3e7a","x":87,"y":-237,"width":131,"height":50,"type":"text","text":"GPU"},
-		{"id":"0f62b692a9b89eb1","x":260,"y":-237,"width":120,"height":50,"type":"text","text":"home1"},
-		{"id":"1babc94010e87316","x":28,"y":-420,"width":250,"height":60,"type":"text","text":""},
-		{"id":"525ddbc2fc39a64d","x":66,"y":-80,"width":173,"height":51,"type":"text","text":"jump 1"}
+		{"id":"38c512ea1ba604e4","type":"text","text":"auto","x":106,"y":45,"width":94,"height":50},
+		{"id":"17ad338e5f62593a","type":"text","text":"CPU","x":-40,"y":-237,"width":95,"height":50},
+		{"id":"e8e5eabbfa2a3e7a","type":"text","text":"GPU","x":87,"y":-237,"width":131,"height":50},
+		{"id":"0f62b692a9b89eb1","type":"text","text":"home1","x":260,"y":-237,"width":120,"height":50},
+		{"id":"1babc94010e87316","type":"text","text":"terminal","x":28,"y":-420,"width":250,"height":60},
+		{"id":"525ddbc2fc39a64d","type":"text","text":"jump 1","x":66,"y":-80,"width":173,"height":51}
 	],
 	"edges":[
 		{"id":"01229cafd116b311","fromNode":"38c512ea1ba604e4","fromSide":"top","toNode":"525ddbc2fc39a64d","toSide":"bottom"},

@@ -11,14 +11,17 @@
             "id": "73de3af361e81bd7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "linux/linux/putty authorized_keys.md",
-                "mode": "source",
-                "source": false
+                "file": "linux/linux/Untitled 1.canvas",
+                "viewState": {
+                  "x": 170,
+                  "y": -162.5,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "putty authorized_keys"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled 1"
             }
           }
         ]
@@ -186,6 +189,7 @@
   },
   "active": "73de3af361e81bd7",
   "lastOpenFiles": [
+    "linux/linux/putty authorized_keys.md",
     "linux/linux/Untitled 1.canvas",
     "Untitled 1.base",
     "Aldehyde.md",
@@ -195,7 +199,6 @@
     "full_reaction.canvas",
     "carboxylic acid.md",
     "Ketone.md",
-    "image/Pasted image 20251126085142.png",
-    "linux/linux/putty authorized_keys.md"
+    "image/Pasted image 20251126085142.png"
   ]
 }
