@@ -28,9 +28,9 @@
               "state": {
                 "file": "full_reaction.canvas",
                 "viewState": {
-                  "x": 690.5655842590921,
-                  "y": 789.4953798704879,
-                  "zoom": -0.778918077591712
+                  "x": -311.28040447318386,
+                  "y": 1048.777595116319,
+                  "zoom": -0.6289671625729971
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -198,7 +198,8 @@
       "templates:插入模板": false,
       "command-palette:開啟命令面板": false,
       "bases:建立新的 base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "iconic:Open rulebook": false
     }
   },
   "active": "bade2ca017f48aa3",
