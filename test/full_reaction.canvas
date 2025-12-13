@@ -136,7 +136,6 @@
 		{"id":"a24c1c949dc84c5c","type":"text","text":"diol\n![[Pasted image 20250627172006.png]]","x":1620,"y":-1222,"width":250,"height":258,"color":"#983e3e"},
 		{"id":"d48c6e1117d8336c","type":"text","text":"dehydrohalogenation","x":1435,"y":705,"width":250,"height":50},
 		{"id":"3c1ecd519a0ab0bf","type":"file","file":"image/Pasted image 20251104223227.png","x":1316,"y":842,"width":386,"height":57},
-		{"id":"9e160a5a8ccb9050","type":"text","text":"## [[Alcahol]]\n![[Pasted image 20250627134335.png]]","x":1820,"y":-360,"width":240,"height":227,"color":"4"},
 		{"id":"c26818ef4454472b","type":"text","text":"![[Pasted image 20251126084007.png]]","x":1940,"y":-892,"width":280,"height":328},
 		{"id":"bd719da0b5a99d07","type":"file","file":"image/Pasted image 20251104230133.png","x":2135,"y":1683,"width":708,"height":120},
 		{"id":"e4da3c4831260592","type":"text","text":"*Catalyst*: concentrated $H_2SO_4$\n*condition*: room temp.","x":1080,"y":-146,"width":280,"height":82,"color":"2"},
@@ -153,7 +152,8 @@
 		{"id":"6c86f031b5991041","type":"text","text":"heat under reflux","x":1740,"y":1743,"width":184,"height":50,"color":"2"},
 		{"id":"275c6086102f7acb","type":"text","text":"$X^-$","x":1804,"y":1950,"width":56,"height":50},
 		{"id":"096ca385e327c0a0","type":"text","text":"+Base(B)","x":1316,"y":1924,"width":118,"height":51,"color":"1"},
-		{"id":"5adeebc77798379b","type":"text","text":"secondary bromoalkane $CH_3CH(Br)CH_3$ 97%\nprimary bromoalkane\n$BrCH_2CH_2CH_3$ 3%\n(more selective)","x":-1189,"y":830,"width":250,"height":189}
+		{"id":"5adeebc77798379b","type":"text","text":"secondary bromoalkane $CH_3CH(Br)CH_3$ 97%\nprimary bromoalkane\n$BrCH_2CH_2CH_3$ 3%\n(more selective)","x":-1189,"y":830,"width":250,"height":189},
+		{"id":"9e160a5a8ccb9050","type":"text","text":"## [[Alcahol]]\n![[Pasted image 20250627134335.png]]","x":1960,"y":-364,"width":240,"height":227,"color":"4"}
 	],
 	"edges":[
 		{"id":"cda9cd0f41f03f71","fromNode":"4f40557e58efa64b","fromSide":"right","toNode":"8ca993a12cbe1b3b","toSide":"left","toEnd":"none"},
