@@ -148,7 +148,7 @@
 		{"id":"04ceff5f554ed97a","type":"text","text":"+$2NH_3$\n","x":1517,"y":1634,"width":117,"height":53,"color":"1"},
 		{"id":"d3d06b421ecb4ce0","type":"text","text":"$NH_4Br$","x":1634,"y":1438,"width":102,"height":52},
 		{"id":"72d399d4a2199330","type":"text","text":"+Carbonyl compound","x":950,"y":2236,"width":250,"height":50,"color":"1"},
-		{"id":"b7dc36c16a65e4e6","x":1960,"y":849,"width":102,"height":50,"color":"2","type":"text","text":"$H_3O^+$\n"},
+		{"id":"b7dc36c16a65e4e6","type":"text","text":"$H_3O^+$\n","x":1960,"y":849,"width":102,"height":50,"color":"2"},
 		{"id":"6c86f031b5991041","type":"text","text":"heat under reflux","x":1740,"y":1743,"width":184,"height":50,"color":"2"},
 		{"id":"275c6086102f7acb","type":"text","text":"$X^-$","x":1804,"y":1950,"width":56,"height":50},
 		{"id":"096ca385e327c0a0","type":"text","text":"+Base(B)","x":1316,"y":1924,"width":118,"height":51,"color":"1"},

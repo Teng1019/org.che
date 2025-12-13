@@ -4,41 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "41816a9de644e8ad",
+        "id": "a1c9b5dc78ba5f7b",
         "type": "tabs",
         "children": [
           {
-            "id": "73de3af361e81bd7",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "Untitled 1.base",
-                "viewName": "Table"
-              },
-              "icon": "lucide-table",
-              "title": "Untitled 1"
-            }
-          },
-          {
-            "id": "bade2ca017f48aa3",
+            "id": "949f84b49361ceba",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "full_reaction.canvas",
                 "viewState": {
-                  "x": 1416.0043434456309,
-                  "y": 2295.701722048552,
-                  "zoom": -0.6289671625729971
+                  "x": 381.5,
+                  "y": -56.728407643312266,
+                  "zoom": -2.621288499097487
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "full_reaction"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -202,17 +188,19 @@
       "iconic:Open rulebook": false
     }
   },
-  "active": "bade2ca017f48aa3",
+  "active": "949f84b49361ceba",
   "lastOpenFiles": [
     "未命名.md",
+    "full_reaction.canvas",
+    "Haloalkane.md",
+    "arrow meaning.md",
+    "未命名 1.md",
     "Untitled 1.base",
+    "Alcahol.md",
     "linux/linux/Untitled 1.canvas",
     "linux/linux/putty authorized_keys.md",
     "Aldehyde.md",
-    "Haloalkane.md",
-    "arrow meaning.md",
     "Hydrocarbon/Alkene_reaction.canvas",
-    "full_reaction.canvas",
     "carboxylic acid.md",
     "Ketone.md",
     "image/Pasted image 20251126085142.png"
