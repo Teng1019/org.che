@@ -11,17 +11,14 @@
             "id": "949f84b49361ceba",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "full_reaction.canvas",
-                "viewState": {
-                  "x": -509.9447598442949,
-                  "y": 1162.0505613855516,
-                  "zoom": -0.12478424789553966
-                }
+                "file": "Hydrocarbon/Alkane.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "full_reaction"
+              "icon": "lucide-file",
+              "title": "Alkane"
             }
           }
         ]
@@ -191,18 +188,18 @@
   "active": "949f84b49361ceba",
   "lastOpenFiles": [
     "未命名.md",
-    "full_reaction.canvas",
-    "Haloalkane.md",
+    "Alcahol.md",
     "arrow meaning.md",
+    "carboxylic acid.md",
+    "full_reaction.canvas",
+    "Ketone.md",
+    "Haloalkane.md",
     "未命名 1.md",
     "Untitled 1.base",
-    "Alcahol.md",
     "linux/linux/Untitled 1.canvas",
     "linux/linux/putty authorized_keys.md",
     "Aldehyde.md",
     "Hydrocarbon/Alkene_reaction.canvas",
-    "carboxylic acid.md",
-    "Ketone.md",
     "image/Pasted image 20251126085142.png"
   ]
 }
