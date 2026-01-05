@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hydrocarbon/Alkane.md",
+                "file": "linux/linux/pip show.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Alkane"
+              "title": "pip show"
             }
           }
         ]
@@ -186,8 +186,9 @@
       "iconic:Open rulebook": false
     }
   },
-  "active": "949f84b49361ceba",
+  "active": "b4568177f2ddf8b4",
   "lastOpenFiles": [
+    "Hydrocarbon/Alkane.md",
     "未命名.md",
     "Alcahol.md",
     "arrow meaning.md",
