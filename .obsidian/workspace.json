@@ -11,17 +11,12 @@
             "id": "8372fb52dea8b92e",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "image",
               "state": {
-                "file": "test/full_reaction.canvas",
-                "viewState": {
-                  "x": -1569.6583805235887,
-                  "y": 599.2251936633515,
-                  "zoom": -0.6444285978114852
-                }
+                "file": "test/image/PXL_20251030_061109412.jpg"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "full_reaction"
+              "icon": "lucide-image",
+              "title": "PXL_20251030_061109412"
             }
           }
         ]
@@ -190,10 +185,21 @@
   },
   "active": "8372fb52dea8b92e",
   "lastOpenFiles": [
+    "test/image/Pasted image 20250627164921.png",
+    "test/image/Pasted image 20250627134747.png",
+    "test/image/Pasted image 20250627132510.png",
+    "test/image/Pasted image 20250627132358.png",
+    "test/image/Pasted image 20250627131907.png",
+    "test/image/Pasted image 20250626222117.png",
+    "test/image/Pasted image 20250626221847.png",
+    "test/image/Pasted image 20250626221639.png",
+    "test/image/Pasted image 20250626221011.png",
+    "test/image/Pasted image 20250626165811.png",
+    "test/image/Pasted image 20250626165749.png",
+    "test/image/paPXL_20251029_005520049.jpg.md",
+    "test/full_reaction.canvas",
     "test/Hydrocarbon/Alkene_reaction.canvas",
     "README.md",
-    "test/Pasted image 20251126085142.png",
-    "test/full_reaction.canvas",
     "test/reaction/Oxymercuration–demercuration.md",
     "test/linux/linux/Linux Force Delete Command.md",
     "test/linux/putty authorized_keys.md",
@@ -204,7 +210,6 @@
     "test/Untitled 1.base",
     "test/linux/linux/SCP File Transfer Commands.md",
     "test/Haloalkane.md",
-    "test/Untitled.base",
-    "test/image/Pasted image 20250626164938.png"
+    "test/Untitled.base"
   ]
 }
