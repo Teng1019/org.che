@@ -64,7 +64,6 @@
 		{"id":"2174a897b3e4eb3c","type":"text","text":"Halogenation","x":-1189,"y":287,"width":250,"height":60},
 		{"id":"c89e7fbf08c3af1a","type":"text","text":"+$Br_2$","x":-1110,"y":400,"width":92,"height":50,"color":"1"},
 		{"id":"356bec04d70f1967","type":"text","text":"Condition: hv,125 °C","x":-1182,"y":500,"width":236,"height":60,"color":"2"},
-		{"id":"fe910ff0a8694381","type":"file","file":"image/Pasted image 20251008093912.png","x":-2076,"y":426,"width":740,"height":349},
 		{"id":"cdefeaa9c4936a84","type":"text","text":"Hammond's Postulate\n(近朱者赤近墨者黑)\nrelated species that are closer in energy\nare also closer in structure. The structure of a transition state\nresembles the structure of the closest stable species","x":-1740,"y":840,"width":404,"height":320,"color":"6"},
 		{"id":"344994e88d3b87db","type":"file","file":"image/PXL_20251009_055713241.jpg","x":-2080,"y":860,"width":320,"height":569},
 		{"id":"405cd69701422cb7","type":"text","text":"Condition: hv","x":-40,"y":454,"width":250,"height":60,"color":"2"},
@@ -153,7 +152,8 @@
 		{"id":"275c6086102f7acb","type":"text","text":"$X^-$","x":1804,"y":1950,"width":56,"height":50},
 		{"id":"096ca385e327c0a0","type":"text","text":"+Base(B)","x":1316,"y":1924,"width":118,"height":51,"color":"1"},
 		{"id":"5adeebc77798379b","type":"text","text":"secondary bromoalkane $CH_3CH(Br)CH_3$ 97%\nprimary bromoalkane\n$BrCH_2CH_2CH_3$ 3%\n(more selective)","x":-1189,"y":830,"width":250,"height":189},
-		{"id":"9e160a5a8ccb9050","type":"text","text":"## [[Alcahol]]\n![[Pasted image 20250627134335.png]]","x":1960,"y":-364,"width":240,"height":227,"color":"4"}
+		{"id":"9e160a5a8ccb9050","type":"text","text":"## [[Alcahol]]\n![[Pasted image 20250627134335.png]]","x":1960,"y":-364,"width":240,"height":227,"color":"4"},
+		{"id":"fe910ff0a8694381","type":"file","file":"image/Pasted image 20251008093912.png","x":-2228,"y":360,"width":740,"height":349}
 	],
 	"edges":[
 		{"id":"cda9cd0f41f03f71","fromNode":"4f40557e58efa64b","fromSide":"right","toNode":"8ca993a12cbe1b3b","toSide":"left","toEnd":"none"},
