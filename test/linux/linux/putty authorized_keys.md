@@ -9,4 +9,4 @@
 
 
 pls don't set in chemlab
-by snr try
+by snr tried before

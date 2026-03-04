@@ -1,0 +1,1 @@
+ssh -i /path/of/ur/id -p 9210 user_name@ip
