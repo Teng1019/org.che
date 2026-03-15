@@ -14,13 +14,15 @@ conda create 新環境
 ## mamba
 推薦在base下載
 
-## File enviroment ##
+## File enviroment (Pixi)##
 
 1)  deactivate conda envirement
 2) put pixl.toml files to the folder
 3)  get in to the folder
 4) pixi download 
 5) pixel shell
+
+pixi對vs code 相容性差,比較適合therminal
 
 
 
